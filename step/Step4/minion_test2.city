@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<city><tile x="704" y="160" zoning="0" type="minion" file="grass.png" bananas="4" SpeedX="25.2372814111759"/><tile x="320" y="192" zoning="0" type="minion" file="grass.png" bananas="1" SpeedX="5.02182073427534"/><tile x="480" y="384" zoning="0" type="minion" file="grass.png" bananas="0" SpeedX="36.1049226355785"/></city>

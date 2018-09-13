@@ -1,0 +1,19 @@
+
+/**
+*  \mainpage Workshop Simulator
+*
+* This is the documentation for the CSE 335 Minion Morning Simulator.
+* This describes the function calls necessary to utilize the
+* simulator. The Minion Morning  Simulator is a graphical representation
+* of a Minion cleaning and clothing machine in Gru's workshop at an undisclosed location.
+* Support is provided for conveyor belt control, position sensing, and
+* button support.
+*
+* See the documentation for the classes CWorkshopController and 
+* CWorkshopWnd. CWorkshopController is the class users use for 
+* controlling the workshop. A user controller is derived from
+* that class. CWorkshopWnd provides additional functions
+* that are useful for testing purposes.
+*
+* This documentation is generated from sources using Doxygen.
+*/
